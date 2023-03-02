@@ -1,0 +1,80 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+   background-color: #708090;
+  font-family: "courier", Times, serif;
+    
+
+}
+
+img {
+    width: 350px;
+    border: 4px solid white;
+    border-radius: 25px;
+
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    
+   
+  
+ 
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+
+
+button {
+    height: 40px;
+   background-color:#A9A9A9;
+    font-family: "Lucida Console", "Courier New", monospace;
+  
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+.story-opening{
+   display:block;
+}
+
+.buttons{
+   display:block;
+}
+
+
+ 
+.option-one-screen{
+   display:none;
+}
+
+
+
+.option-two-screen{
+   display:none;
+}
+.zombie{
+    display:none;
+}
+.option-one-end{
+   display:none;
+}
+
+.option-two-end{
+   display:none;
+}
